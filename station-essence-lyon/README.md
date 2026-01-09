@@ -63,6 +63,33 @@ Il permet :
 - **BigQuery** (SQL) pour l’interrogation des données et les transformations.
 - **Looker Studio** pour la visualisation interactive.
 - Fichiers `.sql` versionnés pour garder l’historique des requêtes.
+  
+---
+
+## Lien du Dashboard
+
+Dashboard Looker Studio :  
+https://lookerstudio.google.com/s/m_Joj-qFQvA
 
 ---
+
+## Résultats clés
+
+- Les prix varient significativement selon les quartiers  
+- Des opportunités d’optimisation existent pour les consommateurs
+
+---
+
+## Ce que j’ai appris
+
+- Manipuler de gros jeux de données SQL dans BigQuery  
+- Construire un workflow data complet (ETL → Analyse → Visualisation)
+  
+---
+
+## Remarques
+
+Ce projet a été réalisé dans un cadre pédagogique. Les résultats sont à interpréter comme une démonstration de compétences data et non comme une recommandation commerciale.
+
+
 
