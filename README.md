@@ -1,7 +1,7 @@
 ## Je m'appelle Fabio FATA
 
 🎓 Étudiant en Bachelor in Management à **Burgundy School of Business**, spécialité Business Development  
-📊 À partir de septembre, j’intègre le **Programme Grande École – Data Management & Business Analytics**
+📊 À partir de septembre, j’intègre le **Programme Master Grande École – Data Management & Business Analytics**
 
 💼 Actuellement en alternance chez **Ikigai** en tant que **Chargé d’Affaires IT**
 🚀 À la recherche d’une **alternance à partir de septembre** en Data / Business Analytics
