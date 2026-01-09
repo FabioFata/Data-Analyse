@@ -1,5 +1,5 @@
 Station essence Lyon project
-# 🛢️ Analyse des prix des stations-essence à Lyon
+#  Analyse des prix des stations-essence à Lyon
 
 Ce projet est une **étude de cas data** réalisée dans le cadre d’une formation en Data Analytics (Cartel de la Data).  
 L’objectif était de répondre à la question suivante :
@@ -10,7 +10,7 @@ Ce cas m’a permis d’appliquer une méthodologie data complète : collecte, p
 
 ---
 
-## 🎯 Objectifs du projet
+##  Objectifs du projet
 
 - Extraire et structurer les données des prix des carburants.
 - Nettoyer et filtrer les données pour la zone lyonnaise.
@@ -20,7 +20,7 @@ Ce cas m’a permis d’appliquer une méthodologie data complète : collecte, p
 
 ---
 
-## 📊 Données
+## Données
 
 Les données proviennent d’un jeu de données public sur les prix des carburants en France (Open Data).  
 Elles comprennent notamment :
@@ -34,7 +34,7 @@ Un **échantillon des données nettoyées** est disponible dans le dossier `data
 
 ---
 
-## 🧠 Méthodologie
+## Méthodologie
 
 ### 1. Collecte et nettoyage
 
@@ -58,7 +58,7 @@ Il permet :
 
 ---
 
-## 💻 Outils utilisés
+## Outils utilisés
 
 - **BigQuery** (SQL) pour l’interrogation des données et les transformations.
 - **Looker Studio** pour la visualisation interactive.
