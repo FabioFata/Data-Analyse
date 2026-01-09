@@ -8,6 +8,7 @@
 
 📈 Intéressé par la **data**, l’analyse et l’utilisation de la donnée pour répondre à des problématiques business  
 🧠 J’ai commencé à me former à la data avant le début de mon master à travers des projets personnels
+https://github.com/FabioFata/Data-Analyse/tree/main
 
 ---
 
