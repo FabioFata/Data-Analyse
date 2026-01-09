@@ -1,0 +1,15 @@
+SELECT clmn0_, clmn1_, clmn2_, clmn3_ FROM (
+SELECT t0.adresse AS clmn0_, t0.distance_km AS clmn1_, t0.prix_sp95 AS clmn2_, t0.ville AS clmn3_ FROM (
+SELECT
+  adresse,
+  ville,
+  CONCAT(adresse, ' ', code_postal, ' ', ville) AS adresse_complete,
+  ROUND(prix_sp95, 2) AS prix_sp95,
+  ROUND(ST_DISTANCE(ST_GEOGPOINT(4.854876, 45.761986), ST_GEOGPOINT(longitude, latitude)) / 1000, 1) AS distance_km
+FROM
+  `fr_carburants.fr_carburants`
+WHERE
+  code_departement = '69' AND prix_sp95 IS NOT NULL
+ORDER BY distance_km
+) AS t0
+) GROUP BY clmn0_, clmn1_, clmn2_, clmn3_ ORDER BY clmn2_ ASC LIMIT 2000001;
